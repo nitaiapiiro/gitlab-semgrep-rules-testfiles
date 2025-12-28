@@ -1,0 +1,1 @@
+# gitlab-semgrep-rules-testfiles
